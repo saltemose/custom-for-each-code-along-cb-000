@@ -11,4 +11,3 @@ function forEach(iterable, callback) {
       }
     }
   }
-}
